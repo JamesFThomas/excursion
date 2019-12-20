@@ -26,4 +26,8 @@ body {
     font-size: 21px;
     color: gray;
 }
-.
+
+.footer {
+    color: grey;
+    text-align: right;
+}
